@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Dados pesados (não versionar)
+*.wav
+.cache/
+
+# Credenciais — NUNCA commitar
+kaggle.json
+*.token
+.env
+
+# Saídas locais
+outputs/
+publicacao_kaggle/

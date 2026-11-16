@@ -1,0 +1,6 @@
+{
+  "title": "Previsão de Churn Call Center — Áudio AppTek (features, labels e scores)",
+  "id": "gonaldomichael/previsao-de-churn-call-center-audio-apptek",
+  "description": "Features comportamentais e acústicas, label proxy de risco de churn e previsões out-of-fold extraídas de 873 conversas de call center (AppTek Callcenter Dialogues, CC BY-SA 4.0). Ver dataset_README.md dentro do dataset.",
+  "licenses": [{ "name": "CC-BY-SA-4.0" }]
+}

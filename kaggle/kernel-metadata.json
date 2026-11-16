@@ -1,0 +1,12 @@
+{
+  "id": "gonaldomichael/previsao-de-churn-call-center-audio-apptek",
+  "title": "Previsão de Churn em Call Center — Áudio (AppTek)",
+  "code_file": "../notebooks/previsao-churn-callcenter-audio-kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "kernel_sources": []
+}
