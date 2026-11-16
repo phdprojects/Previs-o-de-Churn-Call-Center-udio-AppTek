@@ -51,6 +51,11 @@ O label de risco de churn (79/873 = 9,0%) deriva do **texto do cliente** (união
 
 Os CSVs em `data/` permitem explorar os resultados sem reexecutar o pipeline completo (o `churn_score_oof` é a previsão out-of-fold de cada conversa).
 
+## Publicação no Kaggle
+
+* **Dataset** (features, labels e scores OOF): [Previsão de Churn Call Center — Áudio AppTek](https://www.kaggle.com/datasets/gonaldomichael/previso-de-churn-call-center-udio-apptek)
+* **Notebook** (pipeline completo, executável no Kaggle): [Previsão de Churn Call Center — Áudio AppTek](https://www.kaggle.com/code/gonaldomichael/previs-o-de-churn-call-center-udio-apptek)
+
 ## Licenças e crédito
 
 * **Código**: MIT (ficheiro `LICENSE`).
